@@ -1,0 +1,9 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "music": null,
+  "scenes": [
+    {"id": "s01", "component": "Hook", "vo": null, "durationInFrames": 90, "text": "Ganti teks ini dengan narasi adegan satu.", "sfx": []}
+  ]
+}

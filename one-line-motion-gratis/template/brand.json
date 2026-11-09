@@ -1,0 +1,19 @@
+{
+  "name": "Default One Line Motion",
+  "preset": "kartun-flat",
+  "palette": {
+    "bg": "#0F1B33",
+    "bg2": "#1D2F57",
+    "primary": "#FFC93C",
+    "accent": "#FF5C7A",
+    "cool": "#4FC3F7",
+    "ink": "#FFF8EC",
+    "shadow": "#0A1224"
+  },
+  "font": {"display": "Baloo 2", "body": "Nunito"},
+  "radius": 28,
+  "stroke": 6,
+  "tempo": 1,
+  "captions": true,
+  "voice": {"provider": "elevenlabs", "name": "", "wordsPerSecond": 2.3}
+}
